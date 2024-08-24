@@ -3,3 +3,6 @@ this is 1st version
 
 how are you 
 this is 2nd version
+ 
+this is my first git example
+2nd version
