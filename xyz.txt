@@ -6,3 +6,7 @@ this is 2nd version
  
 this is my first git example
 2nd version
+
+this is data science class
+this is third version
+
